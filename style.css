@@ -1,0 +1,37 @@
+img {
+  height:50px;
+  width: 100px;
+  border-radius: 20px;
+  background-color: black;
+}
+
+img2 {
+  height:300px;
+  width: 300px;
+  border-radius: 20px;
+  background-color: black;
+
+
+}
+header {
+  background: url("");
+  text-align: center;
+  background-color: black;
+  text-decoration-color: white;
+  color: white;
+  font: serif; 
+
+}
+li {
+  display:inline ;
+}
+body {
+  background-color: black;
+    color: white 
+
+}
+ul {
+  color: white;
+  background-color: pink;
+
+}
